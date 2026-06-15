@@ -1,0 +1,12 @@
+Usuário
+Quero trabalhar na área de tecnologia, mas estou em dúvida entre análise de requisitos, processos e inteligência artificial.
+Agente
+Ótimo! Vou te ajudar a entender melhor seu perfil.  
+Para começar: você já possui alguma experiência profissional em tecnologia ou está em transição de carreira?
+Usuário
+Tenho experiência com documentação, processos, requisitos, sistemas e estou estudando IA.
+Agente
+Seu perfil tem forte aderência a áreas de análise, negócios e transformação digital.  
+Agora quero entender melhor: você tem mais facilidade com comunicação com áreas de negócio, documentação, análise técnica ou criação de soluções?
+Resultado Esperado
+O agente deve identificar o perfil do usuário, fazer perguntas complementares e gerar um feedback com sugestões de carreira.
